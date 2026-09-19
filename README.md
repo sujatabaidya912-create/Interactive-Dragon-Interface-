@@ -1,2 +1,2 @@
-# Interactive-Dragon-Interface-
+# Index
 Interactive touch-controlled dragon web experience 🐉
